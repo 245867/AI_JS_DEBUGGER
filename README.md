@@ -1,5 +1,9 @@
 # <h1 align="center">AI_JS_DEBUGGER</h1>
 
+## 2026-1-08更新
+
+- 新增硅基流动API接口
+- 硅基注册地址：cloud.siliconflow.cn/i/FVswY8eR
 
 本项目是基于Chrome开发者协议(CDP)的AI自动化JavaScript逆向分析工具，通过AI自动调试前端JS，自动分析加解密算法、密钥等，自动生成分析报告以及mitmproxy脚本。
 
