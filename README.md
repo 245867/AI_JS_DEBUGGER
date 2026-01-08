@@ -1,5 +1,6 @@
 # <h1 align="center">AI_JS_DEBUGGER</h1>
 
+
 本项目是基于Chrome开发者协议(CDP)的AI自动化JavaScript逆向分析工具，通过AI自动调试前端JS，自动分析加解密算法、密钥等，自动生成分析报告以及mitmproxy脚本。
 
 **声明：文中所涉及的技术、思路和工具仅供以安全为目的的学习交流使用，<u>任何人不得将其用于非法用途以及盈利等目的，否则后果自负</u>** 
@@ -27,7 +28,7 @@
 1. 克隆本仓库：
 
 ```bash
-git clone https://github.com/Valerian7/AI_JS_DEBUGGER.git
+git clone https://github.com/245867/AI_JS_DEBUGGER
 cd AI_JS_DEBUGGER
 ```
 
